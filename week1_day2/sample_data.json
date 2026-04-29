@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Áo Thun Nam Cổ Tròn Basic",
+    "created_date": "2026-04-10",
+    "img_path": "./src/public/assets/images/tshirt_basic.png",
+    "price": 150000.00
+  },
+  {
+    "id": 2,
+    "name": "Quần Jeans Nam Dáng Suông",
+    "created_date": "2026-04-12",
+    "img_path": "./src/public/assets/images/jeans_straight.png",
+    "price": 350000.50
+  },
+  {
+    "id": 3,
+    "name": "Giày Thể Thao Sneaker Trắng",
+    "created_date": "2026-04-15",
+    "img_path": "./src/public/assets/images/sneaker_white.png",
+    "price": 450000.00
+  },
+  {
+    "id": 4,
+    "name": "Balo Thời Trang Chống Nước",
+    "created_date": "2026-04-18",
+    "img_path": "./src/public/assets/images/backpack_waterproof.png",
+    "price": 280000.00
+  },
+  {
+    "id": 5,
+    "name": "Áo Khoác Bomber Kaki",
+    "created_date": "2026-04-20",
+    "img_path": "./src/public/assets/images/bomber_jacket.png",
+    "price": 420000.00
+  },
+  {
+    "id": 6,
+    "name": "Laptop Gaming Asus ROG",
+    "created_date": "2026-04-22",
+    "img_path": "./src/public/assets/images/laptop_asus.png",
+    "price": 25000000.00
+  },
+  {
+    "id": 7,
+    "name": "Chuột Không Dây Logitech",
+    "created_date": "2026-04-25",
+    "img_path": "./src/public/assets/images/mouse_logi.png",
+    "price": 299000.00
+  },
+  {
+    "id": 8,
+    "name": "Bàn Phím Cơ Đèn LED RGB",
+    "created_date": "2026-04-26",
+    "img_path": "./src/public/assets/images/keyboard_rgb.png",
+    "price": 850000.00
+  },
+  {
+    "id": 9,
+    "name": "Tai Nghe Over-ear Chống Ồn",
+    "created_date": "2026-04-28",
+    "img_path": "./src/public/assets/images/headphone_anc.png",
+    "price": 1250000.00
+  },
+  {
+    "id": 10,
+    "name": "Đồng Hồ Thông Minh Sport",
+    "created_date": "2026-04-29",
+    "img_path": "./src/public/assets/images/smartwatch_sport.png",
+    "price": 950000.00
+  }
+]
