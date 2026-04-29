@@ -27,7 +27,7 @@ class ProductModel
     {
         try {
             $query = "SELECT id, name, price, img_path, created_date FROM " . $this->table_name . " ORDER BY id DESC";
-            $stmt = $this->conn->prepare($query);
+            $stmt = $this->conn->prepar($query);
             $stmt->execute();
             return $stmt->fetchAll(PDO::FETCH_ASSOC);
         } catch (\PDOException $e) {
